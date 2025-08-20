@@ -79,3 +79,23 @@ for speaker, message in st.session_state.history:
         st.markdown(f"**{speaker}** : {message}")
     else:
         st.markdown(f"**{speaker}** : {message}")
+# Le texte suivant est contenu du fichier texte avec lequel j'ai teste mon appli
+# La data science est la science des données.
+# Un data scientist est un expert qui analyse et interprète des données complexes.
+# La data science combine les mathématiques, la statistique, l’informatique et la connaissance métier.
+# Les principales étapes de la data science sont la collecte des données, le nettoyage, l’analyse, la modélisation et la visualisation.
+# Le langage Python est très utilisé en data science.
+# Le langage R est également utilisé pour les statistiques et la visualisation.
+# La machine learning est une branche de l’intelligence artificielle qui apprend à partir des données.
+# La visualisation de données permet de mieux comprendre les tendances et les relations.
+# Un modèle prédictif est un modèle qui permet de prévoir un résultat futur à partir des données passées.
+# Les bibliothèques Python populaires en data science sont pandas, numpy, matplotlib, scikit-learn et tensorflow.
+# Le big data désigne les ensembles de données trop volumineux pour être traités avec des outils classiques.
+# Les domaines d’application de la data science incluent la santé, la finance, le marketing et l’industrie.
+# Un algorithme est une suite d’instructions permettant de résoudre un problème.
+# L’intelligence artificielle regroupe les techniques qui permettent aux machines d’imiter l’intelligence humaine.
+# La régression est une méthode statistique utilisée pour prédire une variable numérique.
+# La classification est une technique qui permet de prédire une catégorie.
+# Un data engineer prépare et organise les données pour les data scientists.
+# La différence entre un data analyst et un data scientist est que le premier décrit les données tandis que le second construit des modèles prédictifs.
+
